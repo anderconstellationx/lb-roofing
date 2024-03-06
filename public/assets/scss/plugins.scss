@@ -1,0 +1,56 @@
+/*------------------------------------------------------------------
+[Master Stylesheet]
+
+Project                        :   SPRUHA - PHP Bootstrap5 Admin Template
+Create Date                    :   07/August/2023
+Author & Copyright Ownership   :   Spruko Technologies Private Limited 
+Author URL                     :   https://themeforest.net/user/spruko
+Support	                       :   https://support.spruko.com/
+License Details                :   https://spruko.com/licenses-details
+
+-------------------------------------------------------------------*/
+
+
+@import "variables";
+
+/* ###### Plugins ####### */
+
+@import "plugins/amazeui-datetimepicker/amazeui.datetimepicker";
+@import "plugins/bootstrap-datepicker/bootstrap-datepicker";
+@import "plugins/bootstrap-daterangepicker/daterangepicker";
+@import "plugins/datatable/buttons.bootstrap5.min";
+@import "plugins/datatable/dataTables.bootstrap5";
+@import "plugins/datatable/responsive.bootstrap5";
+@import "plugins/fancyuploder/fancy_fileupload";
+@import "plugins/fileuploads/fileupload";
+@import "plugins/fullcalendar/fullcalendar";
+@import "plugins/fullcalendar/fullcalendar.print.min";
+@import "plugins/gallery/gallery";
+@import "plugins/inputtags/inputtags";
+@import "plugins/ion-rangeslider/ion.rangeSlider";
+@import "plugins/ion-rangeslider/ion.rangeSlider.skinFlat";
+@import "plugins/jquery-countdown/jquery.countdown";
+@import "plugins/jqvmap/jqvmap.min";
+@import "plugins/lightslider/lightslider.min";
+@import "plugins/model-datepicker/datepicker";
+@import "plugins/multipleselect/multiple-select";
+@import "plugins/multislider/multislider";
+@import "plugins/notify/notifit";
+@import "plugins/owl-carousel/owl.carousel";
+@import "plugins/pickr-master/classic.min";
+@import "plugins/pickr-master/monolith.min";
+@import "plugins/pickr-master/nano.min";
+@import "plugins/prism/prism";
+@import "plugins/quill/quill.snow";
+@import "plugins/quill/quill.bubble";
+@import "plugins/select2/select2.min";
+@import "plugins/spectrum-colorpicker/spectrum";
+@import "plugins/summernote-editor/summernote";
+@import "plugins/summernote-editor/summernote1";
+@import "plugins/sweet-alert/sweetalert";
+@import "plugins/telephoneinput/telephoneinput";
+@import "plugins/timeline/timeline.min";
+@import "plugins/treeview/treeview";
+@import "plugins/wysiwyag/richtext";
+
+/* ###### Plugins ####### */

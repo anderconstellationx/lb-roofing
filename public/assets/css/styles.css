@@ -1,0 +1,177 @@
+button:disabled,
+button[disabled],
+.btn:disabled,
+.btn[disabled],
+.btn.disabled,
+.bttn:disabled,
+.bttn[disabled],
+.bttn.disabled,
+.btn-full:disabled,
+.btn-full[disabled],
+.btn-full.disabled {
+    border: 1px solid #999999 !important;
+    background: #929292 !important;
+    color: #242424 !important;
+    text-align: center;
+}
+
+.no-link {
+    pointer-events: none;
+    opacity: 0.5;
+}
+
+.not-selectable {
+    user-select: none;
+}
+
+.bttn.btn-delete {
+    background-color: #cf1804;
+    box-shadow: 0rem 0rem 0.2rem 0.05rem rgba(0, 0, 0, 0.2);
+    color: black;
+}
+
+.bttn.btn-delete:hover {
+    background-color: #bf1300;
+    box-shadow: 0rem 0rem 0.4rem 0.05rem rgba(0, 0, 0, 0.25);
+    color: black;
+}
+
+.bttn.btn-delete:active {
+    background-color: #8c1103;
+    box-shadow: 0rem 0rem 0.5rem 0.05rem rgba(0, 0, 0, 0.3);
+    color: black;
+}
+
+.bttn.btn-success {
+    background-color: #4caf50;
+    box-shadow: 0rem 0rem 0.2rem 0.05rem rgba(0, 0, 0, 0.2);
+    color: black;
+}
+
+.bttn.btn-success:hover {
+    background-color: #45a049;
+    box-shadow: 0rem 0rem 0.4rem 0.05rem rgba(0, 0, 0, 0.25);
+    color: black;
+}
+
+.bttn.btn-success:active {
+    background-color: #357835;
+    box-shadow: 0rem 0rem 0.5rem 0.05rem rgba(0, 0, 0, 0.3);
+    color: black;
+}
+
+.bttn.btn-info {
+    background-color: #3498db;
+    box-shadow: 0rem 0rem 0.2rem 0.05rem rgba(0, 0, 0, 0.2);
+    color: black;
+}
+
+.bttn.btn-info:hover {
+    background-color: #2980b9;
+    box-shadow: 0rem 0rem 0.4rem 0.05rem rgba(0, 0, 0, 0.25);
+    color: black;
+}
+
+.bttn.btn-info:active {
+    background-color: #1f6aa7;
+    box-shadow: 0rem 0rem 0.5rem 0.05rem rgba(0, 0, 0, 0.3);
+    color: black;
+}
+
+.bttn.btn-warning {
+    background-color: #ffd700;
+    box-shadow: 0rem 0rem 0.2rem 0.05rem rgba(0, 0, 0, 0.2);
+    color: black;
+}
+
+.bttn.btn-warning:hover {
+    background-color: #e6c609;
+    box-shadow: 0rem 0rem 0.4rem 0.05rem rgba(0, 0, 0, 0.25);
+    color: black;
+}
+
+.bttn.btn-warning:active {
+    background-color: #ccb207;
+    box-shadow: 0rem 0rem 0.5rem 0.05rem rgba(0, 0, 0, 0.3);
+    color: black;
+}
+
+.bttn.btn-primary {
+    background-color: #0074e4;
+    box-shadow: 0rem 0rem 0.2rem 0.05rem rgba(0, 0, 0, 0.2);
+    color: black;
+}
+
+.bttn.btn-primary:hover {
+    background-color: #005ac1;
+    box-shadow: 0rem 0rem 0.4rem 0.05rem rgba(0, 0, 0, 0.25);
+    color: black;
+}
+
+.bttn.btn-primary:active {
+    background-color: #004ba8;
+    box-shadow: 0rem 0rem 0.5rem 0.05rem rgba(0, 0, 0, 0.3);
+    color: black;
+}
+
+.bttn.btn-black {
+    background-color: #000;
+    box-shadow: 0rem 0rem 0.2rem 0.05rem rgba(0, 0, 0, 0.2);
+    color: white;
+}
+
+.bttn.btn-black:hover {
+    background-color: #333;
+    box-shadow: 0rem 0rem 0.4rem 0.05rem rgba(0, 0, 0, 0.25);
+    color: white;
+}
+
+.bttn.btn-black:active {
+    background-color: #666;
+    box-shadow: 0rem 0rem 0.5rem 0.05rem rgba(0, 0, 0, 0.3);
+    color: white;
+}
+
+
+.sts.active {
+    background-color: #00cc00;
+    font-weight: 300;
+    border: 1px solid rgba(0,0,0,0);
+}
+
+.sts.inactive {
+    background-color: #a9a9a9;
+    font-weight: 300;
+    border: 1px solid rgba(0,0,0,0);
+}
+
+.sts.completed {
+    background-color: #006a1b;
+    font-weight: 300;
+    border: 1px solid rgba(0,0,0,0);
+}
+
+.sts.pending {
+    background-color: #e8e8e8;
+    font-weight: 300;
+    border: 1px solid rgba(0, 0, 0, 0.8);
+}
+
+.sts.deleted {
+    background-color: #cf1804;
+    font-weight: 300;
+    border: 1px solid rgba(0,0,0,0);
+}
+
+.sts.in-process {
+    background-color: #00b400;
+    font-weight: 300;
+    border: 1px solid #0476e8;
+}
+
+.sts.canceled {
+    background-color: #ff0000;
+    color: #eeeeee;
+    font-weight: 500;
+    border: 1px solid rgb(247, 0, 189, 0.8);;
+}
